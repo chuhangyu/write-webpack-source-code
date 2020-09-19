@@ -1,0 +1,26 @@
+{
+  "name": "write-webpack-source-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuhangyu/write-webpack-source-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuhangyu/write-webpack-source-code/issues"
+  },
+  "homepage": "https://github.com/chuhangyu/write-webpack-source-code#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/parser": "^7.11.5",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/traverse": "^7.11.5"
+  }
+}
